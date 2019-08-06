@@ -30,5 +30,5 @@ pip install numpy
 3. Run Train.py, this will train all images taken and put in TrainData Folder
 4. Run Detectface.py to detect the face and Login, Console shows the login messages
 
-Finally Face login is Successfull and Unknow faces tried to login are stored in UnkownFaces folder </br>
+Finally Face login is Successful and Unknow faces tried to login are stored in UnkownFaces folder </br>
 ✔✔✔✔✔✔✔✔✔
