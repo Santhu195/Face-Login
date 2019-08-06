@@ -1,6 +1,7 @@
 # Face-Login
 Face login using Open CV Python
 
+This folder contains all the code and folders as well as files required to run this project
 
 ## Prerequisites
 Numpy </br>
@@ -22,3 +23,9 @@ pip install pandas
 
 pip install numpy
 
+## Running the test for Face login
+
+1. Create the same folders while testing or download entire project
+2. Run Readface.py to take some images of user for login, It asks for Name and Id in console 
+3. Run Train.py, this will train all images taken and put in TrainData Folder
+4. Run Detectface.py to detect the face and Login, Cosole shows the login messages
