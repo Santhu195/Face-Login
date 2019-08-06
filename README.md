@@ -1,6 +1,6 @@
 # Face-Login
 Face login using Open CV Python
-#Prerequisites
+# Prerequisites
 Numpy
 OpenCV
 Installing
